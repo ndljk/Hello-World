@@ -1,0 +1,10 @@
+INSERT INTO helloworlds (language_code, lang, translation) VALUES ("sr", "Serbian", "Zdravo svete!");
+INSERT INTO helloworlds (language_code, lang, translation) VALUES ("de", "German", "Hallo Welt!");
+INSERT INTO helloworlds (language_code, lang, translation) VALUES ("es", "Spanish", "Hola Mundo!");
+INSERT INTO helloworlds (language_code, lang, translation) VALUES ("en", "English", "Hello World!");
+INSERT INTO helloworlds (language_code, lang, translation) VALUES ("fr", "French", "Bonjour le monde!");
+INSERT INTO helloworlds (language_code, lang, translation) VALUES ("ru", "Russian", "Привет, мир!");
+INSERT INTO helloworlds (language_code, lang, translation) VALUES ("it", "Italian", "Ciao mondo!");
+INSERT INTO helloworlds (language_code, lang, translation) VALUES ("tr", "Turkish", "Selam Dünya!");
+INSERT INTO helloworlds (language_code, lang, translation) VALUES ("sv", "Swedish", "Hej världen!");
+INSERT INTO helloworlds (language_code, lang, translation) VALUES ("cs", "Czech", "Ahoj světe!");
